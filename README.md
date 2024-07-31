@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Kamalesh Karthick</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 <br/>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0f/b9/4d/0fb94dff52a5935e105ec497a0c010a5.gif">
 
 
 
