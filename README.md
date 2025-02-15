@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on VNR IT Solution
 
 - 🌱 I’m currently learning **DSA**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kamaleshkarthickshanmugam@gmail.com**
 
-- ⚡ Fun fact **I am Funny** 
+- ⚡ Tech enthusiast 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
