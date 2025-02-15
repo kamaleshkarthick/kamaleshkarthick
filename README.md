@@ -1,5 +1,8 @@
 
-![Profile](https://www.deviantart.com/vendaciousness/art/Cyber-City-Scroll-1-1052257435)
+  <!-- [Profile](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQydnFjMjhwdHl2djk5a2c5aXAyNzhyNXBxZzltc211Znd6cTViaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)-->
+  <div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajY0aXFhdHFmcDR2MnVra2F2cGcwY2VjN2g5aXhnYjhzaDF5ZGd0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
+</div>
 
 <br/>
 
